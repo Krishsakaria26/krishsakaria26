@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Sakaria</h1>
-<h3 align="center">I am an Indian Citizen and a modi ka bhanja</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishsakaria26&label=Profile%20views&color=0e75b6&style=flat" alt="krishsakaria26" /> </p>
 
