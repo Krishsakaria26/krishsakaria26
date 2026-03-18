@@ -4,13 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishsakaria26&label=Profile%20views&color=0e75b6&style=flat" alt="krishsakaria26" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishsakaria26&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="krishsakaria26" />
-  </a>
-</p>
-
 ---
 
 ### � About Me
