@@ -60,16 +60,6 @@ Cloud     : Docker | Google Cloud
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| ⚔ Clash of Clans Tracker | Advanced player analytics |
-| ⚖ Legal Client Portal | Secure encrypted document system |
-| 🛒 Jainson Umbrella | Full Stack E-Commerce |
-| 🔐 Malware Toolkit | Static & Dynamic Analysis |
-
----
 
 ## 🌐 Connect
 
