@@ -1,225 +1,95 @@
-<!-- ========================================================= -->
-<!--                     KRISH SAKARIA                         -->
-<!--            Premium GitHub Profile README                  -->
-<!--                     PART 1 / 6                            -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Krish Sakaria
+# 👋 Hey, I'm Krish Sakaria
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;FastAPI+%7C+React+%7C+Docker+%7C+Google+Cloud;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;FastAPI+•+React+•+Docker+•+GCP" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Krishsakaria26&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 💻 Terminal
-
-</div>
+## 💻 About Me
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  krish@github:~$ whoami                                      │
-│                                                              │
-│  Name        :: Krish Sakaria                                │
-│  Role        :: Coder                                        │
-│  Learning    :: Backend enginner & Cyber Security            │
-│  Location    :: India                                        │
-│                                                              │
-│  Backend     :: FastAPI                                      │
-│  Frontend    :: React + Vite                                 │
-│  Database    :: MongoDB + PostgreSQL                         │
-│  Cloud       :: Docker + Google Cloud Platform               │
-│  IDE         :: VS Code                                      │
-│                                                              │
-│  Current Mission                                             │
-│                                                              │
-│  > Build software that solves real-world problems            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Name      : Krish Sakaria
+Role      : Full Stack Developer
+Learning  : Cloud & Cyber Security
+Location  : India
+
+Backend   : FastAPI
+Frontend  : React
+Database  : MongoDB | PostgreSQL
+Cloud     : Docker | Google Cloud
 ```
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 Tech Stack
 
-```yaml
-Name:
-    Krish Sakaria
+<p align="center">
 
-Profession:
-    Student
-    Full Stack Developer
-
-Interests:
-    - Web Development
-    - Cyber Security
-    - Cloud Computing
-    - Reverse Engineering
-    - API Development
-
-Current Focus:
-    - FastAPI
-    - React
-    - Docker
-    - Google Cloud Platform
-    - PostgreSQL
-
-Goal:
-    Build scalable applications and become an excellent software engineer.
-```
-
----
-
-# 🚀 Current Projects
-
-| Project | Description |
-|----------|-------------|
-| ⚔ Clash of Clans Tracker | Advanced player analytics dashboard |
-| ⚖ Legal Client Portal | Secure encrypted document management |
-| 🛒 Jainson Umbrella | Full Stack E-Commerce Website |
-| 🔐 Malware Toolkit | Static & Dynamic Malware Analysis |
-| 🌐 Portfolio Website | Modern interactive developer portfolio |
-
----
-
-# 🌱 Currently Learning
-
-- ☁ Google Cloud Platform
-- 🐳 Docker
-- ⚡ FastAPI
-- ⚛ React
-- 🔒 Cyber Security
-- 🐧 Linux
-- 📦 CI/CD
-- 🔥 Kubernetes (Upcoming)
-
----
-
-# 💼 Tech Stack
-
-## Programming Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,fastapi,nodejs,mongodb,postgres,docker,gcp,git,github,vscode,linux" />
 
 </p>
 
 ---
 
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-</p>
-
----
-
-## DevOps & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=gcp"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
-
----
-
-# ⚙ Development Environment
-
-| Tool | Usage |
-|------|-------|
-| VS Code | Primary IDE |
-| Git | Version Control |
-| GitHub | Code Hosting |
-| Docker | Containers |
-| Google Cloud | Deployment |
-| Postman | API Testing |
-| Linux | Development |
-
----
-
-# 📈 Development Philosophy
-
-> "Write code that your future self will thank you for."
-
-- Clean Code
-- Scalable Architecture
-- Secure APIs
-- Performance First
-- User Friendly Interfaces
-
----
-
-# 🎯 2026 Goals
-
-- [ ] Master Google Cloud
-- [ ] Learn Kubernetes
-- [ ] Build 10 Production Projects
-- [ ] Reach 1000 GitHub Contributions
-- [ ] Contribute to Open Source
-- [ ] Publish Technical Blogs
-- [ ] Improve System Design Skills
-- [ ] Learn DevOps
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-## ⚡ Fun Fact
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishsakaria26&show_icons=true&theme=github_dark&hide_border=true"/>
 
-> "I enjoy building projects that combine Full Stack Development with Cyber Security."
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishsakaria26&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Krishsakaria26&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ⚔ Clash of Clans Tracker | Advanced player analytics |
+| ⚖ Legal Client Portal | Secure encrypted document system |
+| 🛒 Jainson Umbrella | Full Stack E-Commerce |
+| 🔐 Malware Toolkit | Static & Dynamic Analysis |
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/Krishsakaria26">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<!-- Replace with your actual LinkedIn URL -->
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<!-- Replace with your email -->
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
 
 ---
 
@@ -227,8 +97,6 @@ Goal:
 
 ### ⭐ Thanks for visiting my profile!
 
-More awesome sections are coming below...
-
-⬇⬇⬇
+*"Code. Learn. Build. Repeat."*
 
 </div>
