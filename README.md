@@ -16,8 +16,8 @@
 
 ```text
 Name      : Krish Sakaria
-Role      : Full Stack Developer
-Learning  : Cloud & Cyber Security
+Role      : Coder
+Learning  : Backend Engineer & Cyber Security
 Location  : India
 
 Backend   : FastAPI
@@ -90,6 +90,42 @@ Cloud     : Docker | Google Cloud
 </a>
 
 </p>
+
+---
+
+---
+
+## 🚀 Currently Building
+
+- ⚔ **Clash of Clans Tracker** – Player analytics & upgrade planner
+- ⚖ **Legal Client Portal** – Secure document management system
+- 🌐 **Personal Portfolio** – Modern developer portfolio
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishsakaria26&theme=github-dark&hide_border=true)](https://github.com/Krishsakaria26)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Krishsakaria26&theme=algolia&no-frame=true&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 💡 Quote
+
+> *"Great software is built one commit at a time."*
 
 ---
 
