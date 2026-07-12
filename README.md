@@ -33,20 +33,6 @@ Cloud     : Docker | Google Cloud
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishsakaria26&show_icons=true&theme=github_dark&hide_border=true"/>
-    </td>
-    <td>
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishsakaria26&layout=compact&theme=github_dark&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🔥 Contribution Streak
 
