@@ -2,11 +2,6 @@
 
 # 👋 Hey, I'm Krish Sakaria
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;FastAPI+•+React+•+Docker+•+GCP" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=Krishsakaria26&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 </div>
 
