@@ -67,8 +67,6 @@ Cloud     : Docker | Google Cloud
 
 ---
 
----
-
 ## 🚀 Currently Building
 
 - ⚔ **Clash of Clans Tracker** – Player analytics & upgrade planner
