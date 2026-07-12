@@ -85,16 +85,6 @@ Cloud     : Docker | Google Cloud
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Krishsakaria26&theme=algolia&no-frame=true&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ## 💡 Quote
 
 > *"Great software is built one commit at a time."*
