@@ -73,17 +73,6 @@ Cloud     : Docker | Google Cloud
 - ⚖ **Legal Client Portal** – Secure document management system
 - 🌐 **Personal Portfolio** – Modern developer portfolio
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishsakaria26&theme=github-dark&hide_border=true)](https://github.com/Krishsakaria26)
-
-</div>
-
----
 
 ## 💡 Quote
 
